@@ -1,0 +1,2 @@
+webpackJsonp([7],{ZAv0:function(e,t,s){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var n=s("s79q"),i=s("395c"),r={components:{Swipe:n.a,Progress:i.a}},a={render:function(){var e=this.$createElement,t=this._self._c||e;return t("section",[t("span",[this._v("Similar Movies")]),this._v(" "),t("Swipe",{attrs:{type:"similar"}})],1)},staticRenderFns:[]},l=s("VU/8")(r,a,!1,null,null,null);t.default=l.exports}});
+//# sourceMappingURL=7.7b2ad240ebd0750783ed.js.map
